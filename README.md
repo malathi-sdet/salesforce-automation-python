@@ -20,4 +20,6 @@ This repository contains a Salesforce UI automation framework built using Playwr
 - Showcase modern TypeScript automation skills
 
 ## Status
-  Work in progress 
+
+🚧 Work in progress 🚧
+
