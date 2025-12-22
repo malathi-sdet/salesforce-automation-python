@@ -1,17 +1,23 @@
-# Salesforce Automation using Python & Selenium
+# Salesforce Automation using Playwright & TypeScript
 
-This repository contains automation scripts for Salesforce using **Python** and **Selenium WebDriver**.
+This repository contains a Salesforce UI automation framework built using Playwright with TypeScript.
 
 ## Tech Stack
-- Python
-- Selenium
+- TypeScript
+- Playwright
+- Node.js
 - Git & GitHub
 
+## Key Highlights
+- Salesforce Lightning UI automation
+- Page Object Model (POM)
+- Scalable Playwright framework
+- CI/CD friendly
+
 ## Purpose
-This project is created to practice and demonstrate:
-- Salesforce UI automation
-- Python test automation skills
-- Git and GitHub version control
+- Demonstrate Salesforce automation using Playwright
+- Build production-ready automation framework
+- Showcase modern TypeScript automation skills
 
 ## Status
 🚧 Work in progress 🚧
